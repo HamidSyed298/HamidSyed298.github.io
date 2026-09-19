@@ -1,6 +1,6 @@
 # Welcome to my GitHub repository!
 
-Here you will find my comprehensive Curriculum Vitae (CV) that showcases my experience, skills, and qualifications for academic, research, and industrial job opportunities.
+Here you will find my comprehensive Curriculum Vitae (CV) that showcases my experiences, skills, and qualifications for academic, research, and industrial job opportunities.
 
 Inside this repository, you will find a detailed CV that highlights my academic background, research experience, and professional expertise. My CV also includes a list of publications, presentations, and awards that demonstrate my achievements in these fields.
 
